@@ -12,4 +12,5 @@ def stworz_rysunek():
             print('*$ ', end="")
         print('')
     return
+print()
 stworz_rysunek()
